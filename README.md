@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anas Bhojani</h1>
 
 
-<h2>A passionate Full Stack Developer | MERN & Next.js Specialist</h2>
-Hello! I'm [Anas Bhojani], a results-driven Full Stack Web Developer based in Pakistan. My core strength is architecting and developing end-to-end web solutions using the powerful MERN Stack and the Next.js framework.
+<h2>A Passionate Full Stack Developer | MERN & Next.js Specialist</h2>
+Hello! I'm Anas Bhojani , a results-driven Full Stack Web Developer based in Pakistan. My core strength is architecting and developing end-to-end web solutions using the powerful MERN Stack and the Next.js framework.
 
 <h2>🛠️ Technical Expertise</h2>
  <h2>Frontend Development:</h2>Frontend Development: React.js, Next.js (App Router & Pages Router), TypeScript, HTML5, CSS3, Tailwind CSS, Redux, Context API, Framer Motion.
