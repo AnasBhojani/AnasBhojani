@@ -1,15 +1,27 @@
 <h1 align="center">Hi 👋, I'm Anas Bhojani</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Banking App**
 
-- 🌱 I’m currently learning **C#**
+A passionate Full Stack Developer | MERN & Next.js Specialist
+Hello! I'm [Anas Bhojani], a results-driven Full Stack Web Developer based in Pakistan. My core strength is architecting and developing end-to-end web solutions using the powerful MERN Stack and the Next.js framework.
 
-- 👯 I’m looking to collaborate on **Dot Net Project**
+🛠️ Technical Expertise
+Frontend Development: React.js, Next.js (App Router & Pages Router), TypeScript, HTML5, CSS3, Tailwind CSS, Redux, Context API, Framer Motion.
 
-- 🤝 I’m looking for help with **Real Time Chat App**
+Backend Development: Node.js, Express.js, RESTful API Development, Authentication (JWT, OAuth), Middleware, Error Handling.
 
-- 💬 Ask me about **React NodeJs MongoDb**
+Database Management: MongoDB, Mongoose ODM, Database Design, Aggregation.
+
+DevOps & Tools: Git, GitHub, Vercel, Netlify, Heroku, Postman, npm/yarn.
+
+🌟 What I Do
+I build high-performance, SEO-friendly web applications leveraging the capabilities of Next.js for server-side rendering (SSR) and static site generation (SSG). I enjoy solving complex problems and am adept at creating responsive, cross-browser compatible UIs paired with secure and efficient back-end systems.
+
+I am actively seeking opportunities to contribute to challenging projects and collaborate with innovative teams.
+
+Let's connect and build something amazing!
+
+-📍 From: Pakistan
+-💼 Open to: Freelance Projects, Full-Time Roles, Contract Work
 
 - 📫 How to reach me **anasbhojani2005@gmail.com**
 
